@@ -6,7 +6,7 @@
     "name": "pembo210",
     "email": "pembo210@gmail.com"
   },
-  "repository": "git://github.com/pembo210/Litesight.git",
+  "repository": "git://github.com/dArkjON/Litesight.git",
   "contributors": [
     {
       "name": "SS",
@@ -18,9 +18,9 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/pembo210/Litesight/issues"
+    "url": "https://github.com/dArkjON/Litesight/issues"
   },
-  "homepage": "https://github.com/pembo210/Litesight",
+  "homepage": "https://github.com/dArkjON/Litesight",
   "license": "MIT",
   "keywords": [
     "insight",
@@ -34,7 +34,7 @@
     "start": "INSIGHT_PUBLIC_PATH=public node node_modules/.bin/Litesight-bitcore-api"
   },
   "dependencies": {
-    "Litesight-api": "git://github.com/pembo210/Litesight-api.git"
+    "Litesight-api": "git://github.com/dArkjON/Litesight-api.git"
   },
   "devDependencies": {
     "bower": "~1.2.8",
