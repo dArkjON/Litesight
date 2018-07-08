@@ -34,7 +34,7 @@
     "start": "INSIGHT_PUBLIC_PATH=public node node_modules/.bin/Litesight-bitcore-api"
   },
   "dependencies": {
-    "Litesight-api": "git://github.com/dArkjON/Litesight-api.git"
+    "Litesight-api": "git://github.com/dArkjON/insight-27.git"
   },
   "devDependencies": {
     "bower": "~1.2.8",
